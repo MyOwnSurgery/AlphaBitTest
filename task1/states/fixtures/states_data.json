@@ -1,0 +1,58 @@
+[
+  {
+    "model": "states.DeliveryState",
+    "pk": 1,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 2,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 3,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 4,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 5,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 6,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 7,
+    "fields": {
+
+    }
+  },
+  {
+    "model": "states.DeliveryState",
+    "pk": 8,
+    "fields": {
+
+    }
+  }
+]
