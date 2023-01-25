@@ -1,5 +1,12 @@
 # AlphaBitTest
 
+## В env или просто
+
+```
+pip install django
+```
+
+
 ## Task 1
 
 ### Имеется 2 решения - models_light_mode_solution и models_hardcore_solution
@@ -9,6 +16,7 @@
 ### В папке task1
 ```
 python manage.py migrate
+python manage.py loaddata states_data.json
 python manage.py runserver
 ```
 ### По эндпоинтам 
